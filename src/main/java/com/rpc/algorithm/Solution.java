@@ -3,11 +3,6 @@ package com.hshc.partner.modules.tmall;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * @Auther: HuaShengHaoChe -- Reet
- * @Date: 2019/12/9 14:02
- * @Description:
- */
 public class Solution {
 
     /**
